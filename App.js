@@ -31,7 +31,7 @@ export default class App extends Component{
             <Image 
             source={require('./src/img/DNS-3.png')}
             style={styles.logo}/>
-
+             
             <Image
             source={require('./src/img/App-cronometro.png')}
             style={styles.logo2}
@@ -72,3 +72,4 @@ const styles = StyleSheet.create({
     height: 300,
   }
 });
+//teste
